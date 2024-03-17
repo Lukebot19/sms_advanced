@@ -43,6 +43,7 @@ android {
     defaultConfig {
         minSdkVersion 23
     }
+    namespace com.elyudde.sms_advanced
 }
 
 dependencies {
